@@ -1,4 +1,4 @@
-baseurl = "https://kazakov.xyz"
+baseurl = "https://sharonxu.com"
 title = "DevOps with love"
 theme = "hugo-coder-forked"
 languagecode = "en"
@@ -25,8 +25,7 @@ author = "Kirill Kazakov"
 info = ["Full Stack DevOps and Magician"]
 description = "Kirill Kazakov's personal page"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
-
+avatarurl = "images/avatar.png"
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
@@ -35,7 +34,7 @@ enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+# commit = "https://github.com/sharonxu.com/tree/"
 powered_by = true
 # Series see also post count
 maxSeeAlsoItems = 5
@@ -70,10 +69,10 @@ weight = 5
 url = "https://www.linkedin.com/in/kazakovk/"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "hello@sharonxu.com"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:hello@sharonxu.com"
 target = "_blank"
 
 # Menu links
