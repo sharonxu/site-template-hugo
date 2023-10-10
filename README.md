@@ -1,4 +1,4 @@
-[![Publish to Cloudflare Pages](https://github.com/kksudo/sharonxu.com/actions/workflows/publish.yml/badge.svg)](https://github.com/kksudo/sharonxu.com/actions/workflows/publish.yml)
+[![Publish to Cloudflare Pages](https://github.com/sharonxu/sharonxu.com/actions/workflows/publish.yml/badge.svg)](https://github.com/sharonxu/sharonxu.com/actions/workflows/publish.yml)
 
 # Description
 

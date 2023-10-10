@@ -1,8 +1,9 @@
 baseurl = "https://sharonxu.com"
-title = "DevOps with love"
+title = "SHARONXU"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
+# url = "projects/"
 
 paginate = 20
 
@@ -10,7 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kksudo"
+disqusShortname = "sharonxu"
 enableGitInfo = true
 enableRobotsTXT = true
 
@@ -24,8 +25,9 @@ priority = 0.5
 author = "Sharon Xu"
 info = ["Data Scientist, Problem-Solver, Interdisciplinarian"]
 description = "Sharon Xu's personal site"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-avatarurl = "images/avatar.png"
+keywords = "personal,site,data,sxu,sharonxu"
+baseurl = "/"
+avatar = "images/avatar.png"
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
@@ -48,13 +50,13 @@ maxSeeAlsoItems = 5
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
+url = "https://github.com/sharonxu/"
 target = "_blank"
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://gitlab.com/sharonxu"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
