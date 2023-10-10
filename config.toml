@@ -56,7 +56,7 @@ target = "_blank"
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+url = "https://www.linkedin.com/in/sharon6/"
 target = "_blank"
 [[params.social]]
 name = "hello@sharonxu.com"

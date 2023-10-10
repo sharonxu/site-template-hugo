@@ -38,5 +38,5 @@ jobs:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           directory: ./public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: kazakov-xyz
+          projectName: sharonxu-site
           wranglerVersion: '3'
