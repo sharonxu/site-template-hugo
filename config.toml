@@ -52,7 +52,6 @@ icon = "fa fa-github fa-2x"
 weight = 1
 url = "https://github.com/sharonxu/"
 target = "_blank"
-target = "_blank"
 [[params.social]]
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
