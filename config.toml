@@ -1,9 +1,8 @@
 baseurl = "https://sharonxu.com"
-title = "SHARONXU"
+title = "Home"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
-# url = "projects/"
 
 paginate = 20
 
@@ -65,10 +64,6 @@ url = "mailto:hello@sharonxu.com"
 target = "_blank"
 
 # Menu links
-[[languages.en.menu.main]]
-name = "Home"
-weight = 1
-url  = "/"
 [[languages.en.menu.main]]
 name = "About"
 weight = 2
