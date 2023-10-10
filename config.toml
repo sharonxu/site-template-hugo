@@ -21,9 +21,9 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [params]
-author = "Kirill Kazakov"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
+author = "Sharon Xu"
+info = ["Data Scientist, Problem-Solver, Interdisciplinarian"]
+description = "Sharon Xu's personal site"
 keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
 avatarurl = "images/avatar.png"
 faviconSVG = "/img/favicon.svg"
