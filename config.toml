@@ -27,7 +27,7 @@ info = ["Data Scientist, Problem-Solver, Interdisciplinarian"]
 description = "Sharon Xu's personal site"
 keywords = "personal,site,data,sxu,sharonxu"
 baseurl = "/"
-avatarurl = "images/avatar.png"
+avatarurl = "/img/avatar.png"
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
