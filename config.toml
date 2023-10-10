@@ -30,7 +30,7 @@ avatarURL= "images/avatar-blue-tint-min.png"
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
-since = 2010
+since = 2023
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
