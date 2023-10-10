@@ -27,7 +27,7 @@ info = ["Data Scientist, Problem-Solver, Interdisciplinarian"]
 description = "Sharon Xu's personal site"
 keywords = "personal,site,data,sxu,sharonxu"
 baseurl = "/"
-avatar = "images/avatar.png"
+avatarurl = "images/avatar.png"
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
@@ -52,17 +52,6 @@ icon = "fa fa-github fa-2x"
 weight = 1
 url = "https://github.com/sharonxu/"
 target = "_blank"
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/sharonxu"
-target = "_blank"
-[[params.social]]
-name = "Instagram"
-icon = "fa fa-instagram fa-2x"
-weight = 3
-url = "https://www.instagram.com/kk_sudo/"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
