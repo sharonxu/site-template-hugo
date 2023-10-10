@@ -23,7 +23,7 @@ priority = 0.5
 
 [params]
 author = "Sharon Xu"
-info = ["Data Scientist, Problem-Solver, Dreamer"]
+info = ["Data Scientist, Problem Solver, Dreamer"]
 description = "Sharon Xu's personal site"
 keywords = "personal,site,data,sxu,sharonxu"
 avatarURL= "images/avatar-min.png"
