@@ -23,12 +23,12 @@ priority = 0.5
 
 [params]
 author = "Sharon Xu"
-info = ["Data Scientist, Problem Solver, Dreamer"]
+info = ["Data Scientist, Dreamer, Problem Solver"]
 description = "Sharon Xu's personal site"
 keywords = "personal,site,data,sxu,sharonxu"
 avatarURL= "images/avatar-min.png"
-faviconSVG = "/img/favicon.svg"
-favicon_32 = "/img/favicon.png"
+faviconSVG = "images/favicon.svg"
+favicon_32 = "images/avicon.png"
 
 since = 2023
 enableTwemoji = true
